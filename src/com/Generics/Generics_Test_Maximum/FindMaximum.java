@@ -1,4 +1,3 @@
-package com.Generics.Generics_Test_Maximum;
 
 public class FindMaximum {
     public static void main(String[] args) {
